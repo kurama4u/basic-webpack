@@ -1,0 +1,2 @@
+# basic-webpack
+simple webpack
